@@ -1,6 +1,6 @@
 # :sparkles: CAREPATH
 
-One paragraph of project description goes here. Things to include:
+The "path" in the project title "Carepath" underscores the intentional journey towards recognizing blockchain's broader applications beyond cryptocurrency, especially in the realm of healthcare.
 
 - What is the primary functionality of this project?
 - What is the purpose of this project?
