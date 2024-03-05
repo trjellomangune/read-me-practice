@@ -26,10 +26,10 @@ Carepath provides a comprehensive solution to track and manage infant immunizati
 - QR code scanning to easily create the infant data from parents to the system.
 - Exporting to Excel Function is done to automate the transferring of the data.
 
-<h6 style="text-align:center">Site Map:</h6>
+<h6>Site Map:</h6>
 
-![sitemap](readme/sitemap.png)
+![sitemap](sitemap.png)
 
-<h6 style="text-align:center">Use Case Diagram:</h6>
+<h6>Use Case Diagram:</h6>
 
-![sitemap](readme/usecase.png)
+![sitemap](usecase.png)
