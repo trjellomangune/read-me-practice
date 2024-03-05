@@ -54,6 +54,7 @@ $ dfx deploy
 ```
 
 <h2>License</h2>
+This project is licensed under the MIT license, see LICENSE.md for details.
 
 <h2>Acknowledgements</h2>
 
