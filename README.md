@@ -13,10 +13,15 @@ Carepath is a blockchain enabled infant immunization registry equipped with an S
 
 <h6>Live Canister Link: [put here]</h6>
 
-##Introduction
+<h2>Introduction</h2>
 
-The project is an online infant immunization registry deployed in the blockchain that can be used by various cities, replacing traditional methods. It securely stores immunization records electronically and sends SMS reminders for upcoming vaccination schedules, ultimately improving immunization coverage, reducing the risk of vaccine-preventable diseases, and enhancing health services in the community.
+Carepath provides a comprehensive solution to track and manage infant immunizations through a user-friendly web application and mobile app. The application simplifies the process of keeping infants up-to-date on critical immunizations. The system offers robust data management and reminders to enhance vaccination compliance, preventing missed appointments. Carepath empowers healthcare providers with a modern solution, providing parents or guardians with peace of mind.
 
 <h6>Key Features</h6>
 
 - SMS reminders for upcoming vaccinations sent directly to parents/guardians
+- Online registry for recording vaccination details
+- Mobile app for parents or guardians to view immunization records on-the-go
+- Intuitive interface and easy-to-use platform for health workers
+- QR code scanning to easily create the infant data from parents to the system.
+- Exporting to Excel Function is done to automate the transferring of the data.
