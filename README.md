@@ -40,6 +40,29 @@ Step-by-step guide to get a copy of the project up and running locally for devel
 
 <h6>Prerequisites</h6>
 
+- Install node.js v16.20.2 <a href="https://nodejs.org/dist/v16.20.2/">Click here to install</a>
+- Install git <a href="https://git-scm.com/downloads">Click here to install</a>
+
+<h6>Install</h6>
+
 ```bash
-$ install required software and libraries
+$ git clone <GitHub repo>
+$ cd <project>
+$ npm install
+$ dfx start --background
+$ dfx deploy
 ```
+
+<h2>License</h2>
+
+<h2>Acknowledgements</h2>
+
+- Government of Angeles City
+- Angeles City Health Office
+- AUF College of Nursing
+- AUF College of Computer Studies
+- Internet Computer Protocol
+
+<h2>References</h2>
+
+- [Internet Computer](https://internetcomputer.org)
