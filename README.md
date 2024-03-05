@@ -33,3 +33,13 @@ Carepath provides a comprehensive solution to track and manage infant immunizati
 <h6>Use Case Diagram:</h6>
 
 ![sitemap](usecase.png)
+
+<h2>Installation</h2>
+
+Step-by-step guide to get a copy of the project up and running locally for development and testing.
+
+<h6>Prerequisites</h6>
+
+```bash
+$ install required software and libraries
+```
